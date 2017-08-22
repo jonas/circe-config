@@ -6,6 +6,9 @@
 Combines the power of [circe] and awesomeness of [Typesafe config] to
 enable straightforward reading of settings into Scala types.
 
+
+⚠️ *This project is in the process of migrating to https://github.com/circe/circe-config* ⚠️
+
 ## Usage
 
 To use this library configure your sbt project with the following lines:
